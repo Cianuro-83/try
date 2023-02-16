@@ -37,10 +37,12 @@ body {
 
 .carosello .freccia-carosello.freccia-sn {
   left: 20px;
+  cursor: pointer;
 }
 
 .carosello .freccia-carosello.freccia-dx {
   right: 20px;
+  cursor: pointer;
 }
 
 .descrizione {
